@@ -11,9 +11,7 @@ export default function Index() {
         alignItems: 'center',
       }}
     >
-      <Text className='text-red-500 text-xl'>
-        Edit app/index.tsx to edit this screen.
-      </Text>
+      <Text className='text-red-500 text-xl mb-4'>yoyo</Text>
       <Link href='/sign-in'>Sign In</Link>
       <Link href='/explore'>Explore</Link>
       {/* <Link href='/sign-in'>Sign In</Link> */}
